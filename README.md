@@ -1,5 +1,6 @@
 # MarketSentiments_-_TraderPerformance
 📊 Fear, Greed, and Gains: Decoding Bitcoin Trader Behaviour with Market Sentiment.
+
 This project explores the relationship between Bitcoin market sentiment (Fear vs Greed) and trader performance on the Hyperliquid exchange.
 
 🔍 Objective
