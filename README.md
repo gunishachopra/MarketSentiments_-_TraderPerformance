@@ -17,3 +17,7 @@ Columns include: Account, Coin, Execution Price, Size USD, Side, Closed PnL, Tim
 
 This project explores how Bitcoin market sentiment—measured using the Fear & Greed Index—relates to trader performance on the Hyperliquid exchange. It combines historical sentiment data with trading data to uncover trends in profitability, behaviour (long/short), and risk-taking during Fear and Greed phases. The goal is to generate insights that can help inform smarter crypto trading strategies.
 
+📬 Contact
+Gunisha Chopra
+🔗 LinkedIn: https://www.linkedin.com/in/gunisha-chopra-b16768262/
+📫 ch.gunisha@gmail.com
